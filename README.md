@@ -7,5 +7,5 @@ Note: To use this program you will need to change the directory for which the 'g
 - Reading and writing files in Python
 - Creating new file within Python  
 - Opening and Closing files
-- Extracting and allocating a value inside a string to an integer/float varaible
+- Extracting and allocating a value inside a string to an integer/float variable
 - A better understanding of Python syntax
